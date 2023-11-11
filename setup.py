@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='dsss_homework_2_23415743',
+    name='Math Quiz',
     version='3.9.13',
     packages=find_packages(),
     install_requires=[
