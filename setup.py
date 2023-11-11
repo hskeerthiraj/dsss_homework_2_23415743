@@ -5,6 +5,6 @@ setup(
     version='2.42.0.windows.2',
     packages=find_packages(),
     install_requires=[
-      
+      'numpy'
     ],
 )
